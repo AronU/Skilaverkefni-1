@@ -1,0 +1,5 @@
+name: Music Module
+description: Music Module that fetches music data from various API's
+type: module
+core_version_requirement: ^9
+package: Custom
